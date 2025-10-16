@@ -4,13 +4,13 @@ A Python project that scrapes Trustpilot reviews for Irish brands and performs s
 
 Features:
 
-Scrapes live Trustpilot reviews for multiple Irish brands.
-Performs sentiment scoring using VADER (compound, positive, neutral, negative scores).
-Aggregates data and calculates average sentiment per brand.
-Generates visualizations:
-Bar chart of average sentiment by brand
-Word clouds for each brand
-Saves a CSV file (trustpilot_reviews_scored.csv) with all reviews and sentiment scores.
+- Scrapes live Trustpilot reviews for multiple Irish brands.
+- Performs sentiment scoring using VADER (compound, positive, neutral, negative scores).
+- Aggregates data and calculates average sentiment per brand.
+- Generates visualizations:
+- Bar chart of average sentiment by brand
+- Word clouds for each brand
+- Saves a CSV file (trustpilot_reviews_scored.csv) with all reviews and sentiment scores.
 
 Getting Started:
 Prerequisites:
